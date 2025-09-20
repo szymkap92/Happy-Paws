@@ -36,14 +36,14 @@ function App() {
       backToMain: "← Zurück zur Hauptseite",
       
       // Hero section
-      heroTitle: "Ania – Professioneller Hundefriseur",
+      heroTitle: "Happy Paws – Professioneller Hundefriseur",
       heroSubtitle: "Ihr Liebling verdient die beste Pflege und professionelle Betreuung",
       makeAppointment: "Termin vereinbaren",
       
       // About section
-      aboutTitle: "Über mich",
-      aboutText1: "Hallo! Ich bin Ania und beschäftige mich seit Jahren leidenschaftlich mit der professionellen Hundepflege. Jeder Liebling ist für mich ein besonderer Kunde, dessen Komfort und Sicherheit für mich oberste Priorität haben.",
-      aboutText2: "Meine Erfahrung und Liebe zu Tieren ermöglichen es mir, Ihrem vierbeinigen Freund nicht nur ein schönes Aussehen zu verleihen, sondern auch Entspannung und ein angenehmes Erlebnis während der Behandlung zu bieten.",
+      aboutTitle: "Über uns",
+      aboutText1: "Hallo! Wir sind Happy Paws und beschäftigen uns seit Jahren leidenschaftlich mit der professionellen Hundepflege. Jeder Liebling ist für uns ein besonderer Kunde, dessen Komfort und Sicherheit für uns oberste Priorität haben.",
+      aboutText2: "Unsere Erfahrung und Liebe zu Tieren ermöglichen es uns, Ihrem vierbeinigen Freund nicht nur ein schönes Aussehen zu verleihen, sondern auch Entspannung und ein angenehmes Erlebnis während der Behandlung zu bieten.",
       loveForDogs: "Liebe zu Hunden",
       professionalExperience: "Professionelle Erfahrung",
       safetyFirst: "Sicherheit an erster Stelle",
@@ -62,13 +62,13 @@ function App() {
       
       // Reviews section
       reviewsTitle: "Was meine Kunden sagen",
-      review1: "\"Ania ist eine echte Profi! Mein Burek hat noch nie so schön ausgesehen. Man sieht, dass Ania liebt, was sie tut.\"",
+      review1: "\"Happy Paws ist ein echter Profi! Mein Burek hat noch nie so schön ausgesehen. Man sieht, dass sie lieben, was sie tun.\"",
       review1Author: "- Maria K.",
       review1Subtitle: "Besitzerin eines Golden Retrievers",
-      review2: "\"Fantastischer Umgang mit Tieren. Meine Zuzia, die normalerweise Angst vor Fremden hat, mochte Ania sofort. Von ganzem Herzen empfehlenswert!\"",
+      review2: "\"Fantastischer Umgang mit Tieren. Meine Zuzia, die normalerweise Angst vor Fremden hat, fühlte sich bei Happy Paws sofort wohl. Von ganzem Herzen empfehlenswert!\"",
       review2Author: "- Thomas W.",
       review2Subtitle: "Besitzer eines Yorkshire Terriers",
-      review3: "\"Professionalität auf höchstem Niveau. Rex kommt immer ruhig und wunderbar duftend von Anias Besuch zurück. Sehr empfehlenswert!\"",
+      review3: "\"Professionalität auf höchstem Niveau. Rex kommt immer ruhig und wunderbar duftend von Happy Paws zurück. Sehr empfehlenswert!\"",
       review3Author: "- Anna P.",
       review3Subtitle: "Besitzerin eines Labradors",
       
@@ -169,7 +169,7 @@ function App() {
       directions: "🗺️ Anfahrt",
       
       // Footer
-      footerCopyright: "© 2024 Ania - Professioneller Hundefriseur. Alle Rechte vorbehalten.",
+      footerCopyright: "© 2024 Happy Paws - Professioneller Hundefriseur. Alle Rechte vorbehalten.",
       footerTagline: "Mit Liebe zu jedem Liebling",
       
       // Blog
@@ -224,14 +224,14 @@ function App() {
       backToMain: "← Powrót do strony głównej",
       
       // Hero section
-      heroTitle: "Ania – Profesjonalny fryzjer dla psów",
+      heroTitle: "Happy Paws – Profesjonalny fryzjer dla psów",
       heroSubtitle: "Twój pupil zasługuje na najlepszą pielęgnację i profesjonalną opiekę",
       makeAppointment: "Umów wizytę",
       
       // About section
-      aboutTitle: "O mnie",
-      aboutText1: "Cześć! Jestem Ania i od lat z pasją zajmuję się profesjonalną pielęgnacją psów. Każdy pupil to dla mnie wyjątkowy klient, którego komfort i bezpieczeństwo są dla mnie najważniejsze.",
-      aboutText2: "Moje doświadczenie i miłość do zwierząt pozwalają mi zapewnić Twojemu czworonożnemu przyjacielowi nie tylko piękny wygląd, ale także relaks i przyjemne doświadczenie podczas zabiegu.",
+      aboutTitle: "O nas",
+      aboutText1: "Cześć! Jesteśmy Happy Paws i od lat z pasją zajmujemy się profesjonalną pielęgnacją psów. Każdy pupil to dla nas wyjątkowy klient, którego komfort i bezpieczeństwo są dla nas najważniejsze.",
+      aboutText2: "Nasze doświadczenie i miłość do zwierząt pozwalają nam zapewnić Twojemu czworonożnemu przyjacielowi nie tylko piękny wygląd, ale także relaks i przyjemne doświadczenie podczas zabiegu.",
       loveForDogs: "Miłość do psów",
       professionalExperience: "Profesjonalne doświadczenie",
       safetyFirst: "Bezpieczeństwo na pierwszym miejscu",
@@ -250,7 +250,7 @@ function App() {
       
       // Reviews section
       reviewsTitle: "Co mówią moi klienci",
-      review1: "\"Ania to prawdziwy profesjonalista! Mój Burek nigdy nie wyglądał tak pięknie. Widać, że Ania kocha to, co robi.\"",
+      review1: "\"Happy Paws to prawdziwy profesjonalista! Mój Burek nigdy nie wyglądał tak pięknie. Widać, że kochają to, co robią.\"",
       review1Author: "- Maria K.",
       review1Subtitle: "Właścicielka Golden Retrievera",
       review2: "\"Fantastyczne podejście do zwierząt. Moja Zuzia, która zwykle boi się obcych, od razu polubiła Anię. Polecam z całego serca!\"",
@@ -357,7 +357,7 @@ function App() {
       directions: "🗺️ Dojazd",
       
       // Footer
-      footerCopyright: "© 2024 Ania - Profesjonalny fryzjer dla psów. Wszelkie prawa zastrzeżone.",
+      footerCopyright: "© 2024 Happy Paws - Profesjonalny fryzjer dla psów. Wszelkie prawa zastrzeżone.",
       footerTagline: "Z miłością do każdego pupila",
       
       // Blog
@@ -426,8 +426,8 @@ function App() {
     
     // Update title based on language
     const title = language === 'de' 
-      ? 'Ania - Professioneller Hundefriseur | Hundepflege Deutschland'
-      : 'Ania - Profesjonalny fryzjer dla psów | Pielęgnacja psów Niemcy'
+      ? 'Happy Paws - Professioneller Hundefriseur | Hundepflege Deutschland'
+      : 'Happy Paws - Profesjonalny fryzjer dla psów | Pielęgnacja psów Niemcy'
     document.title = title
   }, [language])
 
@@ -674,7 +674,7 @@ function App() {
             <div className="nav-logo">
               <button onClick={() => navigateToPage('home')} className="logo-btn">
                 <span className="logo-icon">🐾</span>
-                <span className="logo-text">Ania Groomer</span>
+                <span className="logo-text">Happy Paws</span>
               </button>
             </div>
             
@@ -709,7 +709,7 @@ function App() {
             <div className="nav-logo">
               <button onClick={() => navigateToPage('home')} className="logo-btn">
                 <span className="logo-icon">🐾</span>
-                <span className="logo-text">Ania Groomer</span>
+                <span className="logo-text">Happy Paws</span>
               </button>
             </div>
             
@@ -744,7 +744,7 @@ function App() {
             <div className="nav-logo">
               <button onClick={() => navigateToPage('home')} className="logo-btn">
                 <span className="logo-icon">🐾</span>
-                <span className="logo-text">Ania Groomer</span>
+                <span className="logo-text">Happy Paws</span>
               </button>
             </div>
             
@@ -921,7 +921,7 @@ function App() {
             <div className="nav-logo">
               <button onClick={() => navigateToPage('home')} className="logo-btn">
                 <span className="logo-icon">🐾</span>
-                <span className="logo-text">Ania Groomer</span>
+                <span className="logo-text">Happy Paws</span>
               </button>
             </div>
             
@@ -1064,7 +1064,7 @@ function App() {
           <div className="nav-logo">
             <button onClick={() => navigateToPage('home')} className="logo-btn">
               <span className="logo-icon">🐾</span>
-              <span className="logo-text">Ania Groomer</span>
+              <span className="logo-text">Happy Paws</span>
             </button>
           </div>
           
@@ -1148,7 +1148,7 @@ function App() {
               </div>
             </div>
             <div className="about-image">
-              <img src="/img/ZdjęcieAni.png" alt="Ania - professioneller Hundefriseur" className="about-photo" />
+              <img src="/img/ZdjęcieAni.png" alt="Happy Paws - professioneller Hundefriseur" className="about-photo" />
             </div>
           </div>
         </div>
